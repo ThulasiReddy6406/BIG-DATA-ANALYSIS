@@ -45,3 +45,6 @@ Insights & Visualization 📈: Key patterns and trends discovered for better dec
 🔐 Robust and fault-tolerant framework.
 
 💡 Actionable insights derived to support data-driven decisions.
+
+output :- 
+<img width="1159" height="771" alt="Image" src="https://github.com/user-attachments/assets/54d25c51-60cf-45cb-8525-864c85a0218b" />
